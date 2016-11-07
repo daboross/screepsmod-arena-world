@@ -1,0 +1,23 @@
+{
+  "name": "screepsmod-arenaworld",
+  "version": "0.0.1",
+  "description": "Screeps server-mod providing tools for alternate world-generation.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daboross/screepsmod-arena-world.git"
+  },
+  "keywords": [
+    "screeps",
+    "mod"
+  ],
+  "author": "David Ross",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/daboross/screepsmod-arena-world/issues"
+  },
+  "homepage": "https://github.com/daboross/screepsmod-arena-world#readme"
+}
