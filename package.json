@@ -1,6 +1,6 @@
 {
   "name": "screepsmod-arenaworld",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Screeps server-mod providing tools for alternate world-generation.",
   "main": "index.js",
   "scripts": {
