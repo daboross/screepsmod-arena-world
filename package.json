@@ -1,6 +1,6 @@
 {
   "name": "screepsmod-arenaworld",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "description": "Screeps server-mod providing tools for alternate world-generation.",
   "main": "index.js",
   "scripts": {
@@ -14,6 +14,7 @@
     "screeps",
     "mod"
   ],
+  "screeps_mod": true,
   "author": "David Ross",
   "license": "MIT",
   "bugs": {
